@@ -1,6 +1,6 @@
 {
-    "name": "wp-premium/gravityforms",
-    "type": "wordpress-plugin",
+    "name": "ucase-live/gravityforms",
+    "type": "ucase-live",
     "autoload": {
         "classmap": [
             "."
